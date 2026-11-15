@@ -18,10 +18,6 @@ I'm learning C and C++ at the moment. I want a better grip on what's actually ha
 
 Systems programming, developer tooling, compilers. Long-term I want to build a programming language. Design, parser, compiler, runtime. I have a rough idea of what it needs and no idea what it looks like yet.
 
-## Currently Building
-
-**[Malus](https://github.com/nullvarin/malus)** — A fast macOS system fetch tool written in Swift. Extracts deep system info in ~20ms, supports JSON output, and runs completely native on Apple Silicon.
-
 ## Contact
 
 Discord or email, either works.
