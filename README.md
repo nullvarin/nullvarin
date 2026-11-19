@@ -1,4 +1,4 @@
-# Null
+# Uroš
 
 Software engineer. Most of my work is in Rust and Swift, with TypeScript when a project needs it.
 
@@ -22,5 +22,5 @@ Systems programming, developer tooling, compilers. Long-term I want to build a p
 
 Discord or email, either works.
 
-[![Discord](https://img.shields.io/badge/Discord-nullvarin-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/nullvarin)
-[![Email](https://img.shields.io/badge/Email-nullvarin%40duck.com-444444?style=for-the-badge&logo=duckduckgo&logoColor=white)](mailto:nullvarin@duck.com)
+[![Discord](https://img.shields.io/badge/Discord-itssuross-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/itssuross)
+[![Email](https://img.shields.io/badge/Email-itssuross%40duck.com-444444?style=for-the-badge&logo=duckduckgo&logoColor=white)](mailto:itssuross@duck.com)
